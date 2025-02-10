@@ -1,6 +1,6 @@
 # Celestyx
 
-A translucent theme based on Hazy: <a href="https://github.com/Astromations/Hazy">. This is still very much a work in progress, so I will definitely be adding updates later!
+A translucent theme based on <a href="https://github.com/Astromations/Hazy">Hazy</a>. This is still very much a work in progress, so I will definitely be adding updates later!
 
 ---
 
